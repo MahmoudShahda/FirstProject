@@ -1,0 +1,146 @@
+[
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541503043240,
+            "changeTime": 1541503043240,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541503043240,
+            "changeTime": 1541503043240,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541504011268,
+            "changeTime": 1541504011268,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541503043240,
+            "changeTime": 1541503043240,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541506591010,
+            "changeTime": 1541506591010,
+            "contentHash": "2c3ae5c6e6e7b2164521fa21a851d902c9add44a"
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\classes\\testclass.cls",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\classes\\testclass.cls",
+            "isDirectory": false,
+            "size": 27,
+            "modifiedTime": 1541504011275,
+            "changeTime": 1541504011275,
+            "contentHash": "0300cd43a434fc8e0f95e675cf88a137b66d859b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\classes\\testclass.cls-meta.xml",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\classes\\testclass.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1541504011270,
+            "changeTime": 1541504011270,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541503325816,
+            "changeTime": 1541503325816,
+            "contentHash": "4d3bc473101c866964011de46faf3f9ca135206f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\classes\\testclass1.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\classes\\testclass1.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1541506591006,
+            "changeTime": 1541506591006,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\classes\\testclass1.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\classes\\testclass1.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 25,
+            "modifiedTime": 1541506591011,
+            "changeTime": 1541506591011,
+            "contentHash": "45928f39f28781ca4d43b5c548b7c4225829275b"
+        }
+    ]
+]
