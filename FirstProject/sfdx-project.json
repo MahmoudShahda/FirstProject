@@ -12,6 +12,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "firstPackage": "0Ho1t000000blQFCAY"
+        "firstPackage": "0Ho1t000000blQFCAY",
+        "firstPackage@1.0.0-2": "04t1t000001ics0AAA"
     }
 }
