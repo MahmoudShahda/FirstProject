@@ -32,14 +32,14 @@
     [
         "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1541573717581,
-            "changeTime": 1541573717581,
-            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c"
+            "modifiedTime": 1541576355416,
+            "changeTime": 1541576355416,
+            "contentHash": "3d0174b309aa35f1d20bf7ae4d42d850ac79a814",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -144,40 +144,40 @@
     [
         "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects\\Test_Object__c\\Test_Object__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects\\Test_Object__c\\Test_Object__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2065,
             "modifiedTime": 1541573717542,
             "changeTime": 1541573717542,
-            "contentHash": "d6de122b0aadd19fcde5850f2e0405f913208e19"
+            "contentHash": "d6de122b0aadd19fcde5850f2e0405f913208e19",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects\\Test_Object__c\\fields\\Test_Date__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects\\Test_Object__c\\fields\\Test_Date__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 351,
             "modifiedTime": 1541573717543,
             "changeTime": 1541573717543,
-            "contentHash": "964717ae88d2ba4b71a15393da93ad0d1b0cdcfd"
+            "contentHash": "964717ae88d2ba4b71a15393da93ad0d1b0cdcfd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects\\Test_Object__c\\fields\\Test_Field__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects\\Test_Object__c\\fields\\Test_Field__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 365,
             "modifiedTime": 1541573717544,
             "changeTime": 1541573717544,
-            "contentHash": "c5a0e15aa3b720b5506f3fa01368e80cbbe3f82c"
+            "contentHash": "c5a0e15aa3b720b5506f3fa01368e80cbbe3f82c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -187,10 +187,10 @@
             "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\layouts\\Test_Object__c-Test Object Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 2933,
-            "modifiedTime": 1541573717570,
-            "changeTime": 1541573717570,
-            "contentHash": "ae34e1b6504691581add143fb17a1e969f46ce7b"
+            "size": 3219,
+            "modifiedTime": 1541577779555,
+            "changeTime": 1541577779555,
+            "contentHash": "8be21e34a1f1147158a3f5d72a432e1ab0c30b13"
         }
     ],
     [
@@ -200,75 +200,75 @@
             "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 18749,
-            "modifiedTime": 1541573717588,
-            "changeTime": 1541573717588,
-            "contentHash": "645b26eac5ad02b215289f91e65d61e23c93e46f"
+            "size": 19089,
+            "modifiedTime": 1541577779605,
+            "changeTime": 1541577779605,
+            "contentHash": "457d41fb39325897222f7b525db330958fcbc14b"
         }
     ],
     [
         "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 5049,
+            "modifiedTime": 1541576355373,
+            "changeTime": 1541576355373,
+            "contentHash": "aa2c255d90763cdd0191fa0f9d476ef4dc1f2c6b",
             "isMetadataFile": true,
-            "size": 4878,
-            "modifiedTime": 1541573717595,
-            "changeTime": 1541573717595,
-            "contentHash": "628cfe01a74144d7a4dbe2a6c40ae27740d79640"
+            "state": "u"
         }
     ],
     [
         "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 5387,
+            "modifiedTime": 1541576355386,
+            "changeTime": 1541576355386,
+            "contentHash": "080d89df77ffd4eceac919f899d327ab5f63bcad",
             "isMetadataFile": true,
-            "size": 5216,
-            "modifiedTime": 1541573717626,
-            "changeTime": 1541573717626,
-            "contentHash": "dd2a03bfd34582c03198bdb05d0bffce7fa29e9d"
+            "state": "u"
         }
     ],
     [
         "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 5049,
+            "modifiedTime": 1541576355402,
+            "changeTime": 1541576355402,
+            "contentHash": "aa2c255d90763cdd0191fa0f9d476ef4dc1f2c6b",
             "isMetadataFile": true,
-            "size": 4878,
-            "modifiedTime": 1541573717633,
-            "changeTime": 1541573717633,
-            "contentHash": "628cfe01a74144d7a4dbe2a6c40ae27740d79640"
+            "state": "u"
         }
     ],
     [
         "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects\\Test_Object__c",
         {
-            "state": "u",
             "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects\\Test_Object__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1541573717543,
             "changeTime": 1541573717543,
-            "contentHash": "bca6dd9361cda79e1e6960cf24d528104b2d217b"
+            "contentHash": "bca6dd9361cda79e1e6960cf24d528104b2d217b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1541573717539,
             "changeTime": 1541573717539,
-            "contentHash": "145169ba107748dc655da49ffc8ccf1dfe979a7c"
+            "contentHash": "145169ba107748dc655da49ffc8ccf1dfe979a7c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -279,35 +279,139 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1541573717544,
-            "changeTime": 1541573717544,
-            "contentHash": "8c4480d4313975e208084ddb4f07dc88fac4f2e6"
+            "modifiedTime": 1541577779506,
+            "changeTime": 1541577779506,
+            "contentHash": "078445b5216dfe42f6f6772adc6831a15924e54d"
         }
     ],
     [
         "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1541573717569,
             "changeTime": 1541573717569,
-            "contentHash": "179d09b457955914b952a827d64ed33234e19f67"
+            "contentHash": "179d09b457955914b952a827d64ed33234e19f67",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1541573717633,
             "changeTime": 1541573717633,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects\\Test_Object__c\\fields\\Test_Date_Time__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects\\Test_Object__c\\fields\\Test_Date_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 365,
+            "modifiedTime": 1541576355317,
+            "changeTime": 1541576355317,
+            "contentHash": "b9373915deeca3030f5dba31866108afbf0733be",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profilePasswordPolicies\\Partner_Community_Login_User_profilePasswordPolicy1541576336362.profilePasswordPolicy-meta.xml",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profilePasswordPolicies\\Partner_Community_Login_User_profilePasswordPolicy1541576336362.profilePasswordPolicy-meta.xml",
+            "isDirectory": false,
+            "size": 655,
+            "modifiedTime": 1541576355408,
+            "changeTime": 1541576355408,
+            "contentHash": "d203806630d38f57b8629e6549a78b90d736ca1d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profilePasswordPolicies\\Partner_Community_User_profilePasswordPolicy1541576318768.profilePasswordPolicy-meta.xml",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profilePasswordPolicies\\Partner_Community_User_profilePasswordPolicy1541576318768.profilePasswordPolicy-meta.xml",
+            "isDirectory": false,
+            "size": 649,
+            "modifiedTime": 1541576355412,
+            "changeTime": 1541576355412,
+            "contentHash": "55402066fa468c9f5e2fd8ad58fd4291cb67bfa3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profileSessionSettings\\Partner_Community_User_profileSessionSetting1541576319097.profileSessionSetting-meta.xml",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profileSessionSettings\\Partner_Community_User_profileSessionSetting1541576319097.profileSessionSetting-meta.xml",
+            "isDirectory": false,
+            "size": 449,
+            "modifiedTime": 1541576355417,
+            "changeTime": 1541576355417,
+            "contentHash": "d13a828afe7f53cec87c7384d1310fe620ebee8b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profileSessionSettings\\Partner_Community_Login_User_profileSessionSetting1541576336494.profileSessionSetting-meta.xml",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profileSessionSettings\\Partner_Community_Login_User_profileSessionSetting1541576336494.profileSessionSetting-meta.xml",
+            "isDirectory": false,
+            "size": 455,
+            "modifiedTime": 1541576355419,
+            "changeTime": 1541576355419,
+            "contentHash": "df6cc12058cd06e82198e71969be8f83d2ea3506",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profilePasswordPolicies",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profilePasswordPolicies",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541576355412,
+            "changeTime": 1541576355412,
+            "contentHash": "3c70c07aae1a3dba875fdb2544c470a78b509342",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profileSessionSettings",
+        {
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\profileSessionSettings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541576355419,
+            "changeTime": 1541576355419,
+            "contentHash": "913d22bc54e7f2d37e70970c36a89747c60385eb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects\\Test_Object__c\\fields\\Test_Field_1__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\1 work\\VSC\\FirstProject\\FirstProject\\force-app\\main\\default\\objects\\Test_Object__c\\fields\\Test_Field_1__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1541577779506,
+            "changeTime": 1541577779506,
+            "contentHash": "528aeba323b7edac17c0e6180f14b31111259c77"
         }
     ]
 ]
