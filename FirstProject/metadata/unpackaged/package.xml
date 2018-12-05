@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>*</members>
@@ -26,15 +26,7 @@
     </types>
     <types>
         <members>*</members>
-        <name>StaticResource</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>fieldPermission</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>PermissionSet</name>
+        <name>CustomObject</name>
     </types>
     <types>
         <members>*</members>
@@ -42,7 +34,15 @@
     </types>
     <types>
         <members>*</members>
-        <name>CustomObject</name>
-    </types>   
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>StaticResource</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>fieldPermission</name>
+    </types>
     <version>44.0</version>
 </Package>

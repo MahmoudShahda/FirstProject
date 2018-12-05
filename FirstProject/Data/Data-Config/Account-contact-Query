@@ -1,0 +1,1 @@
+SELECT Id, Name, (select Id, firstname, lastname from contacts) FROM Account limit 5

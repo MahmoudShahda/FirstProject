@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Establishment_Card__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Establishment_Card__cs.json"
+        ]
+    }
+]

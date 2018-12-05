@@ -1,0 +1,46 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "LastName": "0021@amcfz.ae",
+            "AccountId": "@AccountRef1"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef2"
+            },
+            "FirstName": "LIKHACHEV",
+            "LastName": "NIKITA",
+            "AccountId": "@AccountRef2"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef3"
+            },
+            "LastName": "0022@amcfz.ae",
+            "AccountId": "@AccountRef3"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef4"
+            },
+            "FirstName": "AL NAWAZ",
+            "LastName": "LADHA",
+            "AccountId": "@AccountRef4"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef5"
+            },
+            "LastName": "0023@amcfz.ae",
+            "AccountId": "@AccountRef5"
+        }
+    ]
+}

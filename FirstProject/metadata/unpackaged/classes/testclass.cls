@@ -1,4 +1,3 @@
 public class testclass {
 
-    public string testStr;
 }

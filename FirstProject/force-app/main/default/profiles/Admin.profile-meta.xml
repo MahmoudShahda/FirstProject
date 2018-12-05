@@ -11,6 +11,11 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Test_Object__c.Demo_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Object__c.Test_Date_Time__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -23,6 +28,16 @@
         <editable>true</editable>
         <field>Test_Object__c.Test_Field_1__c</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Test_Object__c.Test_Field_2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Test_Object__c.Test_Field_3__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -49,6 +64,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ActivateOrder</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ActivitiesAccess</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
