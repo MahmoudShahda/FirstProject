@@ -44,6 +44,11 @@
         <field>Test_Object__c.Test_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Test_Object__c.test_auto_1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Test_Object__c-Test Object Layout</layout>
     </layoutAssignments>
